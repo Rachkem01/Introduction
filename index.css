@@ -1,1 +1,11 @@
-
+body{
+  background-color:blue;
+  height:100vh;
+}
+.name{
+  font-weight:bold;
+  color:tomato;
+}
+small{
+  color:yellow
+}
